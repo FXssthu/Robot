@@ -123,7 +123,7 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 1定位、1地图构建、
 
 2导航规划（运动学解算）、3执行控制（动力学解算）
-![](C:\Users\Administrator\Desktop\pictures)
+![](5.)
 
 ## 8.英语
 
