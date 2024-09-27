@@ -16,7 +16,7 @@
 
 言归正传，目前我打算使用嵌入HTML代码的方法来实现:
 
-<a href="https://markdown.com.cn/basic-syntax/" target="_blank">新窗口的Markdown</a>
+<a href="https://www.google.com" target="_blank">Google</a>
 
 好像失败了，直接点击还是原来的效果
 
