@@ -26,8 +26,17 @@
 
 ### 1.4.好看的图图 
 
-### 1.5.截图工具分享
+### 1.5.好用工具分享
+截图大师
 [Snipaste](https://zh.snipaste.com/)
+
+矢量绘图
+[inkscape](https://inkscape.org/)
+
+VPN
+[佛跳墙](https://ftq.369.cyou/#)
+
+
 ## 2.单片机工程师 
 ### 2.1单片机软件开发
 ### 2.2PCB设计
