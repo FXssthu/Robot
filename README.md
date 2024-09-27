@@ -4,7 +4,7 @@
 ### 1.1.PPT 
 ### 1.2.Latex 
 ### 1.3.markdown 
-这是官方语法链接[Markdown](https://markdown.com.cn/basic-syntax/links.html)
+这是官方语法链接[Markdown](https://markdown.com.cn/basic-syntax/links.html?_blank)
 
 常写常新，熟能生巧
 
