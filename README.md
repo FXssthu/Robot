@@ -90,14 +90,29 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 
 2、[RSA密钥](https://www.bilibili.com/video/BV1XP4y1A7Ui/?spm_id_from=333.788.recommend_more_video.0&vd_source=2922e33407c68c03ce52c8771580887c)
 
-## 5.控制理论
-
-## 6.机器人专业课
-
-## 7.数学
+## 5.数学
+[MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
 最起码需要血洗：高数、线代、概率
 可以进一步学习：矩阵分析、泛函分析
 有兴趣可以深入学习：
+
+## 6.控制理论与实践
+[在线仿真小球](https://pid-simulator-web.skythinker.top/)
+
+
+
+## 7.机器人专业课
+### 机器人的分类
+操作机器人/机械臂:环境适应机器人,量身定制;
+
+移动机器人:机器人适应环境,more感知智能;
+
+#### 移动机器人
+**轮式，足式，躯干仿生，混合式**
+
+
+
+
 ## 8.英语
 
 
