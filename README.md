@@ -9,7 +9,8 @@ PPT Latex markdown 矢量绘图
 ## 金工
 
 ## 计算机相关
-#### 源代码->可执行文件
+### 详解makefile
+> 原来我只是一只只会用IDE的蠢猪
 命令：makefile  make 
 
 工具：cmake   cmakelist.txt   cmake  makefile   make
@@ -48,6 +49,7 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 如何发布项目
 :头文件+静态/动态库文件
 
+### 详解SSH
 
 ## 控制理论
 
