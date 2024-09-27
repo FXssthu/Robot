@@ -8,15 +8,15 @@
 
 常写常新，熟能生巧
 
-这里我想把超链接设置为新窗口打开，奈何官方现在好像不支持
+这里我想把超链接设置为新窗口打开，奈何官方现在好像不支持，
 
 只好去文心一言查查了，一看好像涉及到HTML和JS的知识，
 
-原来实现个小功能这么费劲，看得我热血沸腾
+原来实现个小功能这么费劲，看得我热血沸腾，
 
-言归正传，目前我打算使用嵌入HTML代码的方法来实现:
+官方支持内嵌HTML语法:
 
-<a href="https://www.google.com" target="_blank">Google</a>
+<a href="https://markdown.com.cn/basic-syntax/" target="_blank">NEW Markdown</a>
 
 好像失败了，直接点击还是原来的效果
 
