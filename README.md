@@ -53,6 +53,8 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 :头文件+静态/动态库文件
 
 ### 详解SSH
+1.[常见加密算法与密钥对](https://zhuanlan.zhihu.com/p/347114235)
+2.[RSA密钥](https://www.bilibili.com/video/BV1XP4y1A7Ui/?spm_id_from=333.788.recommend_more_video.0&vd_source=2922e33407c68c03ce52c8771580887c)
 
 ## 5.控制理论
 
