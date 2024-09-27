@@ -7,6 +7,17 @@
 这是官方语法链接[Markdown](https://markdown.com.cn/basic-syntax/links.html)
 
 常写常新，熟能生巧
+
+这里我想把超链接设置为新窗口打开，奈何官方现在好像不支持
+
+只好去文心一言查查了，一看好像涉及到HTML和JS的知识，
+
+原来实现个小功能这么费劲，看得我热血沸腾
+
+言归正传，目前我打算使用嵌入HTML代码的方法来实现:
+
+<a href="https://markdown.com.cn/basic-syntax/" target="_blank">新窗口的Markdown</a>
+
 ### 1.4.好看的图图 
 ## 2.单片机工程师 
 ### 2.1单片机软件开发
