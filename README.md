@@ -96,6 +96,12 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 
 2、[RSA密钥](https://www.bilibili.com/video/BV1XP4y1A7Ui/?spm_id_from=333.788.recommend_more_video.0&vd_source=2922e33407c68c03ce52c8771580887c)
 
+### 深度学习
+训练集、验证集、测试集
+
+区别：验证集和测试集：
+
+关键在于有无反馈，类比和模考高考；
 ## 5.数学
 [MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
 最起码需要血洗：高数、线代、概率
