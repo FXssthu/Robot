@@ -43,7 +43,12 @@ VPN
 ### 2.2PCB设计
 
 ## 3.金工 
+**SolidWorks**
+[学习路线](https://ifcski218x.feishu.cn/docx/WbhBdLwxYo06CUx4kCxcFTWbnyb)
 
+[基本操作](https://www.bilibili.com/video/BV1iw411Z7HZ/?spm_id_from=333.999.0.0&vd_source=2922e33407c68c03ce52c8771580887c)
+
+[机械臂](https://www.bilibili.com/cheese/play/ss865?csource=private_space_class_null&spm_id_from=333.999.0.0)
 ## 4.计算机相关
 ### 详解makefile
 > 原来我只是一只只会用IDE的蠢猪
