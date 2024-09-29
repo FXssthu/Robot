@@ -3,7 +3,15 @@
 
 ## 1.艺术家—不止PPT 
 ### 1.1.PPT 
+现有的AI工具还是不够智能，优秀的PPT只能靠在座的各位艺术家来亲自操刀来制作
+
 ### 1.2.Latex 
+宇宙最强编辑器:VScode;
+
+[草履虫也能学会的Latex安装教程](https://zhuanlan.zhihu.com/p/166523064)
+
+在此，我对VScode的setting.json有了一些入门级理解了;
+
 ### 1.3.markdown 
 这是官方语法链接[Markdown](https://markdown.com.cn/basic-syntax/)
 
