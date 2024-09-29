@@ -10,6 +10,8 @@
 
 [草履虫也能学会的Latex安装教程](https://zhuanlan.zhihu.com/p/166523064)
 
+[教程 two](https://zhuanlan.zhihu.com/p/38178015)
+
 在此，我对VScode的setting.json有了一些入门级理解了;
 
 ### 1.3.markdown 
