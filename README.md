@@ -1,6 +1,10 @@
 # 这是我的机器人工程师成长历程 #
 插入前辈YY硕的指导 [机器人工程师学习计划](https://zhuanlan.zhihu.com/p/22266788) 
 
+## 8.英语
+Language is information,information is everything!
+
+because I think it is very important!
 ## 1.艺术家—不止PPT 
 ### 1.1.PPT 
 现有的AI工具还是不够智能，优秀的PPT只能靠在座的各位艺术家来亲自操刀来制作
@@ -150,6 +154,6 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 2导航规划（运动学解算）、3执行控制（动力学解算）
 ![通用框架](7.Framework.png)
 ![框架示例](7.Specific-framework.png)
-## 8.英语
+
 
 
