@@ -9,7 +9,7 @@ because I think it is very important!
 ### 1.1.PPT 
 现有的AI工具还是不够智能，优秀的PPT只能靠在座的各位艺术家来亲自操刀来制作
 
-### 1.2.Latex 
+### 1.2 Latex 
 宇宙最强编辑器:VScode;
 
 [草履虫也能学会的Latex安装教程](https://zhuanlan.zhihu.com/p/166523064)
@@ -19,7 +19,7 @@ because I think it is very important!
 在此，我对VScode的setting.json有了一些入门级理解了;
 
 Latex比markdown难用一些，熟能生巧吧
-### 1.3.markdown 
+### 1.3 markdown 
 这是官方语法链接[Markdown](https://markdown.com.cn/basic-syntax/)
 
 常写常新，熟能生巧
@@ -40,9 +40,9 @@ Latex比markdown难用一些，熟能生巧吧
 
 **一些高级的语法功能还需要发挥想象力，创造需求，不断练习，熟能生巧**
 
-### 1.4.好看的图图 
+### 1.4 好看的图图 
 
-### 1.5.好用工具分享
+### 1.5 好用工具分享
 截图大师
 [Snipaste](https://zh.snipaste.com/)
 
@@ -54,8 +54,8 @@ VPN
 
 
 ## 2.单片机工程师 
-### 2.1单片机软件开发
-### 2.2PCB设计
+### 2.1 单片机软件开发
+### 2.2 PCB设计
 
 ## 3.金工 
 ### SolidWorks
@@ -65,6 +65,7 @@ VPN
 
 [机械臂](https://www.bilibili.com/cheese/play/ss865?csource=private_space_class_null&spm_id_from=333.999.0.0)
 ## 4.计算机相关
+## **一些知识点**
 ### 详解makefile
 > 原来我只是一只只会用IDE的蠢猪
 
