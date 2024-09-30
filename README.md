@@ -65,7 +65,7 @@ VPN
 
 [机械臂](https://www.bilibili.com/cheese/play/ss865?csource=private_space_class_null&spm_id_from=333.999.0.0)
 ## 4.计算机相关
-## **一些知识点**
+## 4.1 一些知识点
 ### 详解makefile
 > 原来我只是一只只会用IDE的蠢猪
 
@@ -111,7 +111,7 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 1、[常见加密算法与密钥对](https://zhuanlan.zhihu.com/p/347114235)
 
 2、[RSA密钥](https://www.bilibili.com/video/BV1XP4y1A7Ui/?spm_id_from=333.788.recommend_more_video.0&vd_source=2922e33407c68c03ce52c8771580887c)
-## 人工智能相关
+## 4.2 人工智能相关
 ### 深度学习
 训练集、验证集、测试集
 
