@@ -18,6 +18,7 @@ because I think it is very important!
 
 在此，我对VScode的setting.json有了一些入门级理解了;
 
+Latex比markdown难用一些，熟能生巧吧
 ### 1.3.markdown 
 这是官方语法链接[Markdown](https://markdown.com.cn/basic-syntax/)
 
