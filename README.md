@@ -10,7 +10,7 @@ because I think it is very important!
 现有的AI工具还是不够智能，优秀的PPT只能靠在座的各位艺术家来亲自操刀来制作
 
 ### 1.2 Latex 
-宇宙最强编辑器:VScode;
+宇宙最强编辑器:VScode [Download](https://code.visualstudio.com/download)
 
 [草履虫也能学会的Latex安装教程](https://zhuanlan.zhihu.com/p/166523064)
 
