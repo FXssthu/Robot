@@ -111,6 +111,18 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 1、[常见加密算法与密钥对](https://zhuanlan.zhihu.com/p/347114235)
 
 2、[RSA密钥](https://www.bilibili.com/video/BV1XP4y1A7Ui/?spm_id_from=333.788.recommend_more_video.0&vd_source=2922e33407c68c03ce52c8771580887c)
+
+### 4.1.3详解Docker
+
+解决了环境搭建的问题，一个运维工具
+
+模拟不同的环境，简化开发流程，缩短开发时间
+
+docker和虚拟机的区别：
+
+
+
+
 ## 4.2 人工智能相关
 ### 深度学习
 训练集、验证集、测试集
