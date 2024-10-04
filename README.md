@@ -58,6 +58,8 @@ VPN
 #### JavaScript
 [草履虫级别教程](https://www.bilibili.com/video/BV16a411U774/)
 
+### QT开发（什么年代了还用MFC?）
+
 
 ## 2.单片机工程师 
 ### 2.1 单片机软件开发
