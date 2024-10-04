@@ -52,6 +52,12 @@ Latex比markdown难用一些，熟能生巧吧
 VPN
 [佛跳墙](https://ftq.369.cyou/#)
 
+### 前端三剑客
+#### HTML
+#### CSS
+#### JavaScript
+
+
 
 ## 2.单片机工程师 
 ### 2.1 单片机软件开发
