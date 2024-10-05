@@ -63,8 +63,11 @@ VPN
 
 ## 2.单片机工程师 
 ### 2.1 单片机软件开发
+#### STM32 
+电机驱动
 ### 2.2 PCB设计
-
+**实践操作**:贴片焊接、
+**理论知识**:PCB设计原则、阻抗匹配、芯片手册
 ## 3.金工 
 ### SolidWorks
 [学习路线](https://ifcski218x.feishu.cn/docx/WbhBdLwxYo06CUx4kCxcFTWbnyb)
@@ -128,7 +131,7 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 
 docker和虚拟机的区别：
 
-
+#### 4.1.4 网络配置相关
 
 
 ### 4.2 人工智能相关
@@ -157,6 +160,8 @@ exp:0100110011 ,每个“0”或“1”称为一个bit
 
 名词：逻辑元件、操作系统、微处理器、机器字长、摩尔定律
 
+
+
 **软件发展：**
 
 机器语言->汇编语言->高级语言->C/C++、pythton、matlab、java
@@ -178,10 +183,12 @@ exp:0100110011 ,每个“0”或“1”称为一个bit
 #### 操作系统
 #### 计算机网络
 #### 数据结构与算法
-
-
-
-
+#### 编译原理
+#### 语言学习:c/c++、python、matlab->simulink
+### Linux->Ubuntu
+### ROS
+一种通信框架，本质并非操作系统，ROS用了很多**操作系统**和**网络底层技术**
+[YY硕说ROS](https://www.zhihu.com/question/21958225/answer/20255931)
 ## 5.数学
 [MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
 
