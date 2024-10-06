@@ -74,10 +74,11 @@ VPN
 ## 4.计算机相关
 ### 4.1 一些技术点
 #### 4.1.1 cmake
+关键词:编译器、编译原理、g++、gcc、makefile、cmake、
+
 [cmake顶级教程(上)](https://subingwen.cn/cmake/CMake-primer/#1-CMake%E6%A6%82%E8%BF%B0)
+
 [cmake顶级教程(下)](https://subingwen.cn/cmake/CMake-advanced/)
-
-
 #### 4.1.2详解SSH
 1、[常见加密算法与密钥对](https://zhuanlan.zhihu.com/p/347114235)
 
@@ -95,15 +96,7 @@ docker和虚拟机的区别：
 
 ### 4.2 人工智能相关
 #### 深度学习
-训练集、验证集、测试集
 
-区别：验证集和测试集：
-
-关键在于有无反馈，类比和模考高考；
-
-超参数调节
-
-正规方程
 ### 4.3 基础四大件408
 #### 计算机组成原理4.3.1
 
