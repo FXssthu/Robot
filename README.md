@@ -3,12 +3,9 @@
 
 ## ⭐.英语
 Language is information,information is everything!
-
-because I think it is very important!
 ## 1.艺术家—不止PPT 
 ### 1.1.PPT 
 现有的AI工具还是不够智能，优秀的PPT只能靠在座的各位艺术家来亲自操刀来制作
-
 ### 1.2 Latex 
 宇宙最强编辑器:VScode [Download](https://code.visualstudio.com/download)
 
@@ -60,11 +57,10 @@ VPN
 
 ### QT开发（什么年代了还用MFC?）
 
-
 ## 2.单片机工程师 
 ### 2.1 单片机软件开发
 #### STM32 
-电机驱动
+
 ### 2.2 PCB设计
 **实践操作**:贴片焊接、
 **理论知识**:PCB设计原则、阻抗匹配、芯片手册
@@ -76,52 +72,18 @@ VPN
 
 [机械臂](https://www.bilibili.com/cheese/play/ss865?csource=private_space_class_null&spm_id_from=333.999.0.0)
 ## 4.计算机相关
-### 4.1 一些知识点
-#### 4.1.1 详解makefile
-> 原来我只是一只只会用IDE的蠢猪
+### 4.1 一些技术点
+#### 4.1.1 cmake
+[cmake顶级教程(上)](https://subingwen.cn/cmake/CMake-primer/#1-CMake%E6%A6%82%E8%BF%B0)
+[cmake顶级教程(下)](https://subingwen.cn/cmake/CMake-advanced/)
 
-命令：makefile  make 
-
-工具：cmake   cmakelist.txt   cmake  makefile   make
-
-预处理 编译 汇编 链接
-
-.c到.o到.exe
-
-动态库 静态库
-
-touch用不了在Windows
-
-最低版本 3.30.3
-
--v 和 --verison 有时不一样 
-
-哈哈哈哈哈哈（markdown语法测试）
-
-换行的关键在与Enter键
-
-set命令设置   .cpp文件组合   cpp标准   生成文件的路径
-
-搜索命令file aux
-
-添加头文件路径
-
-制作动态库、静态库
-
-删除当前目录所有文件（包括文件夹）
-：rm * -rf
-
-动态库：lib + .so或者.dll
-
-静态库：lib + .lib或者.a
-
-如何发布项目
-:头文件+静态/动态库文件
 
 #### 4.1.2详解SSH
 1、[常见加密算法与密钥对](https://zhuanlan.zhihu.com/p/347114235)
 
 2、[RSA密钥](https://www.bilibili.com/video/BV1XP4y1A7Ui/?spm_id_from=333.788.recommend_more_video.0&vd_source=2922e33407c68c03ce52c8771580887c)
+
+To be continue...
 
 #### 4.1.3详解Docker
 
@@ -130,9 +92,6 @@ set命令设置   .cpp文件组合   cpp标准   生成文件的路径
 模拟不同的环境，简化开发流程，缩短开发时间
 
 docker和虚拟机的区别：
-
-#### 4.1.4 网络配置相关
-
 
 ### 4.2 人工智能相关
 #### 深度学习
