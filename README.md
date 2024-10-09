@@ -50,10 +50,13 @@ VPN
 [佛跳墙](https://ftq.369.cyou/#)
 
 ### 前端三剑客
+[外文教程](https://www.w3schools.com)
+
+[草履虫级别教程](https://www.bilibili.com/video/BV16a411U774/)
 #### HTML
 #### CSS
 #### JavaScript
-[草履虫级别教程](https://www.bilibili.com/video/BV16a411U774/)
+[JSNB666](https://threejs.org)
 
 ### QT开发（什么年代了还用MFC?）
 
