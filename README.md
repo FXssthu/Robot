@@ -108,6 +108,7 @@ docker和虚拟机的区别：
 #### 数据结构与算法
 #### 语言学习:c/c++、python、matlab->simulink
 ### Linux->Ubuntu
+### OpenCV
 ### ROS
 一种通信框架，本质并非操作系统，ROS用了很多**操作系统**和**网络底层技术**
 [YY硕说ROS](https://www.zhihu.com/question/21958225/answer/20255931)
