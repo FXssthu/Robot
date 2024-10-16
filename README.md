@@ -112,6 +112,11 @@ docker和虚拟机的区别：
 ### ROS
 一种通信框架，本质并非操作系统，ROS用了很多**操作系统**和**网络底层技术**
 [YY硕说ROS](https://www.zhihu.com/question/21958225/answer/20255931)
+
+ROS:a frame to combine many function packages. 
+
+但是只能安装到有操作系统的板子上
+
 ## 5.数学
 [MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
 
