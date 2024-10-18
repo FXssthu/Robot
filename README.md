@@ -117,6 +117,10 @@ ROS:a frame to combine many function packages.
 
 但是只能安装到有操作系统的板子上
 
+**树莓派使用**
+
+1.推荐使用官方烧录工具进行烧录
+
 ## 5.数学
 [MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
 
