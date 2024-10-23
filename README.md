@@ -117,6 +117,14 @@ ROS:a frame to combine many function packages.
 
 但是只能安装到有操作系统的板子上
 
+知识点：话题通信，服务通信，参数服务器，动作通信；rviz,gazebo,tf,navigation
+### 雷达分类介绍
+
+**关键参数**
+扫描频率、采样率、角分辨率
+
+测距方式：激光三角、TOF
+
 **树莓派使用**
 
 1.推荐使用官方烧录工具进行烧录
