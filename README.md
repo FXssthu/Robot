@@ -109,6 +109,7 @@ docker和虚拟机的区别：
 #### 语言学习:c/c++、python、matlab->simulink
 ### Linux->Ubuntu
 ### OpenCV
+### YOLO-深度学习
 ### ROS
 一种通信框架，本质并非操作系统，ROS用了很多**操作系统**和**网络底层技术**
 [YY硕说ROS](https://www.zhihu.com/question/21958225/answer/20255931)
@@ -118,23 +119,14 @@ ROS:a frame to combine many function packages.
 但是只能安装到有操作系统的板子上
 
 知识点：话题通信，服务通信，参数服务器，动作通信；rviz,gazebo,tf,navigation
-### 雷达分类介绍
-
-**关键参数**
-扫描频率、采样率、角分辨率
-
-测距方式：激光三角、TOF
-
-**树莓派使用**
-
-1.推荐使用官方烧录工具进行烧录
+### 树莓派使用
 
 ## 5.数学
 [MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
 
-最起码需要血洗：高数、线代、
+最起码需要血洗：高数、线代、概率
 
-可以进一步学习：矩阵分析、泛函分析
+可以进一步学习：矩阵分析、泛函分析、
 
 有兴趣可以深入学习：
 
