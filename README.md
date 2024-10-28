@@ -118,8 +118,22 @@ ROS:a frame to combine many function packages.
 
 但是只能安装到有操作系统的板子上
 
-知识点：话题通信，服务通信，参数服务器，动作通信；rviz,gazebo,tf,navigation
+知识点：话题通信，服务通信，参数服务器，动作通信；rviz,gazebo,tf,navigation...
+
+步骤:
+1.VMware安装Ubuntu20.04(ROS1->noetic) 或者 Ubuntu22.04(ROS2->humble)
+2.Ubuntu软件安装：
+2.1 vscode
+2.2 ros
+2.3 opencv
+2.4 edge
+2.5 cmake
+2.6 
+
+
 ### 树莓派使用
+
+安装Ubuntu系统
 
 ## 5.数学
 [MIT牛人解说数学体系](https://www.douban.com/group/topic/11115261/?_i=57860257dDOFOz,74641787dDOFOz)
